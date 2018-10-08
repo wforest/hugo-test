@@ -7,3 +7,5 @@ fields:
   default: THis is a text field
   config:
     required: true
+pages:
+- content/page-test.md
